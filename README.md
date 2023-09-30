@@ -1,0 +1,38 @@
+# Контейнеризация (семинары)
+
+## Урок 5. Docker Compose и Docker Swarm
+
+Задание:
+1) создать сервис, состоящий из 2 различных контейнеров: 1 - веб, 2 - БД (compose)
+Задание со звездочкой - повышенной сложности..
+** не обязательно 2) необходимо создать 3 сервиса в каждом окружении (dev, prod, lab)
+** не обязательно 3) по итогу на каждой ноде должно быть по 2 работающих контейнера
+https://github.com/Terekhov-A-S/Containerization-Seminar_5
+Для тех кому интересно про Сфарм
+4) выводы зафиксировать
+
+
+
+**Выполнение**
+
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_1.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_2.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_3.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_4.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_5.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_6.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_7.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_8.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_9.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_10.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_11.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_12.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_13.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_14.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_15.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_16.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_17.png)
+![command for linux containerization](https://raw.githubusercontent.com/Iv4nGB/Containerization-Seminar_55/main/source/Screenshot_18.png)
+
+
+
